@@ -64,6 +64,8 @@ h2 {
     margin-left: auto;
     border-bottom: thin solid #292727;
     justify-content: flex-end;
+    background-image:url(.../images/chheader100.png);
+    background-repeat:no-repeat;
     
    }
 
