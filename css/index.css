@@ -10,7 +10,7 @@ body {
 
 
 .header {
-background-image:url(../images/chheader100.png);
+background-image:url(../images/silhouttelc2.png);
 background-repeat:no-repeat;
 height:100px;
 margin: 0;
@@ -70,7 +70,7 @@ h2 {
     margin-left: auto;
     border-bottom: thin solid #292727;
     justify-content: flex-end;
-    background-image:url(.../images/chheader.png);
+    background-image:url(.../images/silhouttelc2.png);
     background-repeat:no-repeat;
     
    }
@@ -205,11 +205,10 @@ color: #7B7B80;
 
 
     .containermyname {
-      /* display: flex; */
-      /* or inline-flex */
+
       justify-content: space-between;
       align-items: flex;
-      width: 85%%;
+      width: 85%;
       flex-direction: row;
     }
 
